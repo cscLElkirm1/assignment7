@@ -8,12 +8,12 @@ Time spent: **X** hours spent in total
 
 1. (Required) Vulnerability Name or ID
   - [ ] Summary: 
-    - Vulnerability types:
-    - Tested in version:
+    - Vulnerability types:XSS
+    - Tested in version: in wordpress
     - Fixed in version: 
   - [ ] GIF Walkthrough: Part120mb.gif
-  - [ ] Steps to recreate: 
-  - [ ] Affected source code:
+  - [ ] Steps to recreate: dowloaded the 20mb, renamed the folder adn then dragged it in the file on wordpress
+  - [ ] Affected source code: teh folder name
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
 1. (Required) Vulnerability Name or ID
   - [ ] Summary: 
